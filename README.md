@@ -192,7 +192,7 @@ Start the HIL loop and observe:
 
 ## 📷 Example Outputs
 
-Below are representative MATLAB-style plots showing the expected closed-loop behavior of the embedded motor control HIL setup
+Below are MATLAB plots showing the closed-loop behavior of the embedded motor control HIL setup
 
 ### Overview
 
