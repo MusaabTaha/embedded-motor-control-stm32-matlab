@@ -63,27 +63,11 @@ This reflects a workflow at the **intersection of software and physical systems*
 
 ## 🏗️ System Architecture
 
-```text
-Reference Speed
-      |
-      v
-+-------------------+
-|   MATLAB/Simulink |
-|   PMSM Plant      |
-+-------------------+
-      | measured signals
-      v
-+-------------------+
-|      STM32        |
-| Embedded Software |
-|  Motor Control    |
-+-------------------+
-      | duty cycles / control outputs
-      v
-+-------------------+
-|   MATLAB/Simulink |
-| applies control   |
-+-------------------+
+```mermaid
+flowchart LR
+    A[Reference Speed] --> B[MATLAB / Simulink<br/>PMSM Plant + Inverter + Load]
+    B -->|w_m, i_a, i_b, i_c, alpha_e, w_e, U_bat| C[STM32<br/>Embedded Motor Control]
+    C -->|d_a, d_b, d_c| B
 ```
 ## 🛠️ Technologies and Tools
 
