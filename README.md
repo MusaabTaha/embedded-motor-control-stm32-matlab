@@ -19,6 +19,12 @@ The goal is to develop and implement embedded software for motor control applica
 
 ---
 
+## 🎯 Project Goal
+
+To build a clean and practical embedded motor control HIL platform that demonstrates how control engineering concepts can be transformed into efficient, reliable embedded software and validated through model-based development with MATLAB/Simulink
+
+---
+
 ## 🚀 Features
 
 - Embedded software implementation for **motor control applications**
@@ -217,13 +223,6 @@ Below are MATLAB plots showing the closed-loop behavior of the embedded motor co
 ### Duty Cycles
 
 ![Expected Duty Cycles](assets/images/expected_duty_cycles.png)
-
-
----
-
-## 🎯 Project Goal
-
-To build a clean and practical embedded motor control HIL platform that demonstrates how control engineering concepts can be transformed into efficient, reliable embedded software and validated through model-based development with MATLAB/Simulink
 
 ---
 
