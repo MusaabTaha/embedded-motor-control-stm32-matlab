@@ -1,4 +1,4 @@
-# ⚡ Embedded Motor Control HIL with STM32, MATLAB, and Simulink
+# ⚡ MotorDrive: Embedded Motor Control HIL with STM32, MATLAB, and Simulink
 
 # Hi, I'm building an embedded motor control project
 
