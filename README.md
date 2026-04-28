@@ -63,7 +63,7 @@ This reflects a workflow at the **intersection of software and physical systems*
 
 ## 🏗️ System Architecture
 
-
+```text
 Reference Speed
       |
       v
@@ -84,7 +84,7 @@ Reference Speed
 |   MATLAB/Simulink |
 | applies control   |
 +-------------------+
-
+```
 ## 🛠️ Technologies and Tools
 
 - **C / C++**
