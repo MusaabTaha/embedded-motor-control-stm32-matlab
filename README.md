@@ -63,7 +63,7 @@ This reflects a workflow at the **intersection of software and physical systems*
 
 ## 🏗️ System Architecture
 
-```text
+
 Reference Speed
       |
       v
