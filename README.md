@@ -238,7 +238,7 @@ Email: mosab_taha@hotmail.com
 
 This project is intended for learning and experimentation in:
 
-- embedded systems
+- embedded Software/Systems
 - motor control
 - HIL simulation
 - MATLAB / Simulink integration
