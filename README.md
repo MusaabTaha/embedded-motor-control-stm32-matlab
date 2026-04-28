@@ -15,8 +15,6 @@ This project implements a **Hardware-in-the-Loop (HIL)** framework for **embedde
 - **UART communication** between the microcontroller and the PC
 - **PMSM control and FOC concepts** for developing and testing software for electric drive systems
 
-The goal is to develop and implement embedded software for motor control applications, applying control engineering principles in practice and turning algorithms into real-world performance while the motor and inverter remain in simulation
-
 ---
 
 ## 🎯 Project Goal
