@@ -90,23 +90,18 @@ flowchart LR
 **main.cpp**  
 Embedded firmware running on STM32
 
-**hil_pmsm_udemy.m**  
-MATLAB-based host and plant simulation
-
 **STM32PMSMAsciiBlock.m**  
 MATLAB System block wrapper for Simulink UART communication
 
-**MIL_Simulation_UDEMY.slx**  
+**MIL_Simulation.slx**  
 Model-in-the-Loop simulation
 
-**FieldOrientedControl_UDEMY.slx**  
+**FieldOrientedControl.slx**  
 FOC-related model blocks
 
-**PlantModel_UDEMY.slx**  
+**PlantModel.slx**  
 PMSM and inverter plant model
 
-**FieldOrientedControl_UDEMY.sldd**  
-Simulink data dictionary for motor and controller parameters
 
 ---
 
