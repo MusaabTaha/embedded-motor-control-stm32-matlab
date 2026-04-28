@@ -192,13 +192,32 @@ Start the HIL loop and observe:
 
 ## 📷 Example Outputs
 
-This project monitors and evaluates:
+Below are representative MATLAB-style plots showing the expected closed-loop behavior of the embedded motor control HIL setup
 
-- reference vs actual motor speed
-- dq currents
-- abc phase currents
-- electromagnetic torque
-- duty-cycle outputs
+### Overview
+
+![Expected Motor Control Results](assets/images/expected_motor_control_results_overview.png)
+
+### Reference Speed vs Motor Speed
+
+![Expected Speed Response](assets/images/expected_speed_response.png)
+
+### Torque Response
+
+![Expected Torque Response](assets/images/expected_torque_response.png)
+
+### dq Currents
+
+![Expected dq Currents](assets/images/expected_dq_currents.png)
+
+### Phase Currents
+
+![Expected Phase Currents](assets/images/expected_phase_currents.png)
+
+### Duty Cycles
+
+![Expected Duty Cycles](assets/images/expected_duty_cycles.png)
+
 
 ---
 
