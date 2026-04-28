@@ -211,7 +211,9 @@ To build a clean and practical embedded motor control HIL platform that demonstr
 ## 📬 Contact
 
 GitHub: https://github.com/MusaabTaha/embedded-motor-control-stm32-matlab
+
 LinkedIn: https://www.linkedin.com/in/musaab-taha-956bb7105/
+
 Email: mosab_taha@hotmail.com
 
 ---
