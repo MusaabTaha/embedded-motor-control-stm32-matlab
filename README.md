@@ -1,8 +1,8 @@
-# ⚡ MotorDrive: Embedded Motor Control HIL with STM32, MATLAB, and Simulink
+# ⚡ MotorDrive: Embedded PMSM Motor Control HIL with STM32, MATLAB, and Simulink
 
 # Hi, I'm building an embedded motor control project
 
-### Embedded software development for motor control applications using an STM32 controller and a MATLAB/Simulink plant model
+### Embedded software development for PMSM motor control applications using an STM32 controller and a MATLAB/Simulink plant model
 
 ### Focused on applying control engineering in practice, translating algorithms into efficient embedded code, and validating control performance in a Hardware-in-the-Loop setup
 
